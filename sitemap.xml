@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yongjie-tan.github.io/notes/platform-tokens.html</loc>
-    <lastmod>2026-11-05T08:30:48.996Z</lastmod>
+    <loc>https://yongjie-tan.github.io/notes.html</loc>
+    <lastmod>2026-11-08T22:15:28.314Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yongjie-tan.github.io/index.html</loc>
+    <lastmod>2026-11-05T07:59:42.231Z</lastmod>
   </url>
   <url>
     <loc>https://yongjie-tan.github.io/about.html</loc>
     <lastmod>2026-11-05T07:59:42.228Z</lastmod>
   </url>
   <url>
-    <loc>https://yongjie-tan.github.io/index.html</loc>
-    <lastmod>2026-11-05T07:59:42.231Z</lastmod>
+    <loc>https://yongjie-tan.github.io/notes/platform-tokens.html</loc>
+    <lastmod>2026-11-08T22:16:37.903Z</lastmod>
   </url>
 </urlset>

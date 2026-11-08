@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Research Notes & Briefs",
     "section": "",
-    "text": "About this site"
+    "text": "Below are brief abstracts and working notes on my current research topics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Economics of Platform Tokens\n\n\n\nPlatform Economics\n\nTokenomics\n\n\n\n\nThis abstract explains the core mechanism of the note. It investigates how digital platforms utilize native tokens to solve chicken-and-egg coordination problems in two-sided markets.\n\n\n\n\n\n\nNov 5, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,19 @@
     "title": "academic-portfolio",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "notes/platform-tokens.html",
+    "href": "notes/platform-tokens.html",
+    "title": "The Economics of Platform Tokens",
+    "section": "",
+    "text": "(Your full research notes, math derivations, or a link to a PDF download will go here).\nDigital platforms face a classic chicken-and-egg problem…"
   }
 ]
