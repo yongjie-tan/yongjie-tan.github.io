@@ -4,14 +4,14 @@
     "href": "notes.html",
     "title": "Research Notes & Briefs",
     "section": "",
-    "text": "Below are brief abstracts and working notes on my current research topics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Economics of Platform Tokens\n\n\n\nPlatform Economics\n\nTokenomics\n\n\n\n\nThis abstract explains the core mechanism of the note. It investigates how digital platforms utilize native tokens to solve chicken-and-egg coordination problems in two-sided markets.\n\n\n\n\n\n\nNov 5, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Below are brief abstracts and working notes on my current research topics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Economics of Platform Tokens\n\n\n\nPlatform Economics\n\nTokenomics\n\n\n\n\nThis abstract explains the core mechanism of the note. It investigates how digital platforms utilize native tokens to solve chicken-and-egg coordination problems in two-sided markets.\n\n\n\n\n\n\nNov 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDedollarisation in Asia Will Build From the Bottom Up\n\n\n\nMacroeconomics\n\nMonetary Economics\n\nAsia-Pacific\n\n\n\n\nThe US dollar still dominates Asian trade and finance, but a shift in its international role has begun at the base of the system. Payments and local currency settlement are moving first, largely led by central banks. Trade invoicing will follow slowly, with reserves and funding moving last.\n\n\n\n\n\n\nNov 1, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "academic-portfolio",
+    "objectID": "notes/dedollarisation.html",
+    "href": "notes/dedollarisation.html",
+    "title": "Dedollarisation in Asia Will Build From the Bottom Up",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Asia-Pacific Macro Note | November 2026\nSummary: The US dollar still dominates Asian trade and finance. Yet a shift in its international role has begun at the base of the system. In this note, bottom-up describes the order of change, not who drives it. Payments and local currency settlement are moving first, largely led by central banks. Trade invoicing will follow slowly. Reserves and funding will move last. Over the next 10 to 15 years, this points to deeper local currency markets and a larger regional role for currencies in active settlement corridors. It does not point to the end of the dollar.\n\nDownload the Full Research Note (PDF)"
   },
   {
     "objectID": "about.html",
@@ -19,6 +19,13 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "academic-portfolio",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "notes/platform-tokens.html",
