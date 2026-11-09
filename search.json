@@ -4,7 +4,7 @@
     "href": "notes.html",
     "title": "Research Notes",
     "section": "",
-    "text": "Below are brief abstracts and working notes on my current research topics and interests. They are most definitely work in progress intended to capture topics I found interesting to chat over coffee.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Economics of Platform Tokens\n\n\n\nPlatform Economics\n\nTokenomics\n\n\n\n\nThis abstract explains the core mechanism of the note. It investigates how digital platforms utilize native tokens to solve chicken-and-egg coordination problems in two-sided markets.\n\n\n\n\n\n\nNov 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDedollarisation in Asia Will Build From the Bottom Up\n\n\n\nMacroeconomics\n\nMonetary Economics\n\nEmerging Market\n\n\n\n\nDedollarisation in Asia is starting at the base of the system. Payments and local currency settlement are moving first, while invoicing, reserves and funding remain firmly tied to the US dollar.\n\n\n\n\n\n\nNov 2, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Below are brief abstracts and working notes on my current research topics and interests. They are most definitely work in progress intended to capture topics I found interesting to chat over coffee.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFindex Evidence on Interoperability and Inclusion\n\n\n\nFinancial Inclusion\n\nIndustrial Organisation of Payments\n\nDigital Payments\n\n\n\n\nThis note uses the World Bank’s Global Findex 2025 to test whether payment interoperability includes people in the way Frost et al. (2025) predict. It finds that account ownership runs well ahead of merchant use, and it sets out what the data can and cannot reveal about inclusion.\n\n\n\n\n\n\nNov 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDedollarisation in Asia Will Build From the Bottom Up\n\n\n\nMacroeconomics\n\nMonetary Economics\n\nEmerging Market\n\n\n\n\nDedollarisation in Asia is starting at the base of the system. Payments and local currency settlement are moving first, while invoicing, reserves and funding remain firmly tied to the US dollar.\n\n\n\n\n\n\nNov 2, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "notes/dedollarisation.html",
@@ -28,10 +28,10 @@
     "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     X\n  \n  \n    \n     Download CV\n  \n\n  \n  \nCurrently a postgraduate student pursuing a Master of Commerce in Economics at the University of Auckland.\nPreviously, I served as a Research Associate at the Tun Ismail Ali Center of Excellence (TIACOE) at the Asia School of Business, in collaboration with MIT Sloan.\n\nResearch Interests (Current)\nMy interests lead me to the intersection of macroeconomics, monetary economics, and financial markets.\nI am actively researching:\n\nMacroeconomics: Investigating how central bank communication shapes market expectations within the Trilemma, and whether policy signaling can effectively manage capital flows and insulate economies from global financial spillovers.\nMonetary Systems: Examining the transition toward retail fast payment systems (FPS) and Central Bank Digital Currencies (CBDC), analyzing their impact on financial inclusion, cross-border network frictions, and regional dedollarization.\n\n\n\n\n\n\n\nPersonal Interests\nIn my downtime, you will find me usually training for my next long-distance marathon or enjoying a hike up the nearest mountain.\n\n\n\n\nTwincity Marathon\n\n\n\n\n\nBastion Point\n\n\n\n\n\nLake Como"
   },
   {
-    "objectID": "notes/platform-tokens.html",
-    "href": "notes/platform-tokens.html",
-    "title": "The Economics of Platform Tokens",
+    "objectID": "notes/platform-econ.html",
+    "href": "notes/platform-econ.html",
+    "title": "Findex Evidence on Interoperability and Inclusion",
     "section": "",
-    "text": "(Your full research notes, math derivations, or a link to a PDF download will go here).\nDigital platforms face a classic chicken-and-egg problem…"
+    "text": "Summary: Summary: Frost, Rochet, Shin and Verdier (2025) predict that a public payment rail removes financial exclusion. In their model, inclusion means joining a payment network. The World Bank’s Global Findex lets us look further. It records who owns an account, who uses it to pay merchants, and how both differ by income. Two patterns stand out. Ownership runs well ahead of merchant use, most sharply in Tanzania and India. The income gap in ownership has narrowed in Kenya, but it reopened in Brazil after 2021. Both patterns fit the paper only in part. They also show where its assumptions are weakest and where further work could go.\n\n\n\nFigure 1: Owning an account is not paying with it.\n\n\nDownload the Full Research Note (PDF)"
   }
 ]
