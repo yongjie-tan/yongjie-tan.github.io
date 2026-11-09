@@ -1,0 +1,24 @@
+/* Apply the subtle NZ-inspired atmospheric background to the body */
+body {
+    background-image: url("nz-background.png");
+    background-size: cover;
+    background-position: bottom center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #fcfdfd; /* Fallback off-white */
+  }
+  
+  /* Ensure content stands out cleanly on top of the soft background patterns */
+  .quarto-container, #quarto-content {
+    background-color: rgba(255, 255, 255, 0.88); /* Subtle glass/opaque white overlay */
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02); /* Very soft shadow for depth */
+  }
+  
+  /* Maintain dark blue contrast for top-level navbar and elements */
+  .navbar {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
