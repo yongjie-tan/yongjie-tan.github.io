@@ -1,6 +1,6 @@
 /* Apply your personal sunset cloud photo with a soft white overlay for readability */
 body {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.25)), url("auckland-bay.jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.35)), url("auckland-bay.jpg");
     background-size: cover;
     background-position: center top; 
     background-attachment: fixed;
