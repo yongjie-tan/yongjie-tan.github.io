@@ -1,21 +1,21 @@
-/* Apply the subtle NZ-inspired atmospheric background to the body */
+/* Apply your personal sunset cloud photo with a soft white overlay for readability */
 body {
-    background-image: url("nz-background.png");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.85)), url("auckland-bay.jpg.jpg");
     background-size: cover;
-    background-position: bottom center;
+    background-position: center top; 
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-color: #fcfdfd; /* Fallback off-white */
+    background-color: #fcfdfd; 
   }
   
   /* Ensure content stands out cleanly on top of the soft background patterns */
   .quarto-container, #quarto-content {
-    background-color: rgba(255, 255, 255, 0.88); /* Subtle glass/opaque white overlay */
+    background-color: rgba(255, 255, 255, 0.90); /* Subtle glass/opaque white container */
     border-radius: 8px;
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02); /* Very soft shadow for depth */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05); /* Very soft shadow for depth */
   }
   
   /* Maintain dark blue contrast for top-level navbar and elements */
