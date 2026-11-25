@@ -1,21 +1,22 @@
 project:
   type: website
+  resources:
+    - "*.pdf"
 
 website:
-  title: "academic-portfolio"
+  title: "Yong Jie Tan"
+  favicon: favicon.png
   navbar:
+    background: "#1A365D"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: cv.qmd
+        text: CV
+      - href: notes.qmd
+        text: Research Notes
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-
-
+    theme: flatly
+    css: custom.css

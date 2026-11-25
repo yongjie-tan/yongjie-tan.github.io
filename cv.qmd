@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+---
+
+<a href="cv.pdf" class="btn btn-primary" target="_blank">
+  <i class="bi bi-file-earmark-pdf"></i> Download CV (PDF)
+</a>
+
+<br><br>
+
+<iframe src="https://docs.google.com/gview?url=https://yongjie-tan.github.io/cv.pdf&embedded=true" width="100%" height="800px" style="border: none; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></iframe>

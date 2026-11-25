@@ -1,0 +1,10 @@
+---
+title: "Research Notes"
+listing:
+  contents: notes # This tells Quarto to look inside your new "notes" folder
+  type: default # Displays title, date, and abstract
+  sort: "date desc" # Shows the newest notes first
+  categories: true # Allows visitors to filter by topic
+---
+
+Below are brief abstracts and working notes on my current research topics and interests. They are most definitely work in progress intended to capture topics I found interesting to chat over coffee.

@@ -1,0 +1,13 @@
+---
+title: "Dedollarisation in Asia Will Build From the Bottom Up"
+date: "2026-11-02"
+categories: [Macroeconomics, Monetary Economics, Emerging Market]
+image: "chart2_invoicing.png"
+description: "Dedollarisation in Asia is starting at the base of the system. Payments and local currency settlement are moving first, while invoicing, reserves and funding remain firmly tied to the US dollar."
+---
+
+**Summary:** The US dollar still dominates Asian trade and finance. Yet a shift in its international role has begun at the base of the system. In this note, bottom-up describes the order of change, not who drives it. Payments and local currency settlement are moving first, largely led by central banks. Trade invoicing will follow slowly. Reserves and funding will move last. Over the next 10 to 15 years, this points to deeper local currency markets and a larger regional role for currencies in active settlement corridors. It does not point to the end of the dollar.
+
+![Figure 2: Dollar share of export invoicing, Asia.](chart2_invoicing.png){fig-align="center" width="85%"}
+
+[**Download the Full Research Note (PDF)**](dedollarisation-asia.pdf){.btn .btn-primary}

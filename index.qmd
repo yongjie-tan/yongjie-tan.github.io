@@ -1,7 +1,61 @@
 ---
-title: "academic-portfolio"
+title: "Yong Jie Tan"
+subtitle: "MCom in Economics Candidate"
+about:
+  id: profile-section
+  template: trestles
+  image: profile.jpg
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:yongjie.tan311@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/yongjie-tan
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yongjiet/
+    - icon: twitter-x
+      text: X
+      href: https://x.com/TanYongJie
+    - icon: file-earmark-pdf
+      text: Download CV
+      href: cv.pdf
 ---
 
-This is a Quarto website.
+:::{#profile-section}
+Currently a postgraduate student pursuing a Master of Commerce in Economics at the University of Auckland. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Previously, I served as a Research Associate at the Tun Ismail Ali Center of Excellence (TIACOE) at the Asia School of Business, in collaboration with MIT Sloan.
+
+### Research Interests (Current)
+My interests lead me to the intersection of macroeconomics, monetary economics, and financial markets. 
+
+I am actively researching:
+
+- **Macroeconomics:** Investigating how central bank communication shapes market expectations within the Trilemma, and whether policy signaling can effectively manage capital flows and insulate economies from global financial spillovers.
+- **Monetary Systems:** Examining the transition toward retail fast payment systems (FPS) and Central Bank Digital Currencies (CBDC), analyzing their impact on financial inclusion, cross-border network frictions, and regional dedollarization.
+:::
+
+---
+
+### Personal Interests
+In my downtime, you will find me usually training for my next long-distance marathon or enjoying a hike up the nearest mountain.
+
+::: {.layout-ncol=3}
+<figure>
+  <img src="twincity.jpg" alt="Twincity Marathon" style="width: 100%; height: 350px; object-fit: cover; object-position: center;">
+  <figcaption style="text-align: left; font-size: 0.9em; margin-top: 8px; color: #555;">Twincity Marathon</figcaption>
+</figure>
+
+<figure>
+  <img src="auckland-hike.jpg" alt="Auckland Trails" style="width: 100%; height: 350px; object-fit: cover; object-position: center;">
+  <figcaption style="text-align: left; font-size: 0.9em; margin-top: 8px; color: #555;">Bastion Point</figcaption>
+</figure>
+
+<figure>
+  <img src="como.jpg" alt="Lake Como" style="width: 100%; height: 350px; object-fit: cover; object-position: center;">
+  <figcaption style="text-align: left; font-size: 0.9em; margin-top: 8px; color: #555;">Lake Como</figcaption>
+</figure>
+:::
